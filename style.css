@@ -1,4 +1,5 @@
 
+
 body{
 	font-family:'Playfair Display', serif ;
 	font-weight: 400;
@@ -194,13 +195,13 @@ border-bottom: 1px solid #626262;
 
 }
 .l-m{
-	padding: 20px 35px;
+	padding: 10px 35px;
 	background-color: transparent;
 	border: 1px solid #323232;
 	border-style: revert;
 	
 }
-.l-m a{
+h1 .l-m{
 	font-family: 'Playfair Display', serif;
 	font-weight: 400;
 	font-size: 20px;
@@ -263,9 +264,3 @@ footer{
 
 
 /**footer end**/
-
-
-
-
-
-
